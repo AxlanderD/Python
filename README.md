@@ -1,2 +1,2 @@
 # Python
-python test
+python & daily record
