@@ -1,0 +1,2 @@
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple [module]
+pip install -i  https://pypi.douban.com/simple/ [module] //这个超级快！
