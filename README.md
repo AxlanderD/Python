@@ -1,2 +1,3 @@
 # Python
-python & daily record
+
+Python学习
